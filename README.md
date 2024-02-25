@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorcasn</h1>
 <h3 align="center">Back-end developer hanging out alone on the Fivem</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorcasn9&label=Profile%20views&color=0e75b6&style=flat" alt="lorcasn9" /> </p>
-
 - 📫 How to reach me **contact@lorcasn.com**
 
 <h3 align="left">Connect with me:</h3>
